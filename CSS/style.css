@@ -9,11 +9,7 @@ h1, h2, h3 {
 h2 {
     color: #3046C5;
 }
-.tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
-}
+
 
 header h2 {
     color: #CEC8FF;
