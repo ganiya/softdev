@@ -40,3 +40,8 @@ header h2 {
     min-height: 200px;
 }
 .navbar{ background-color: purple}
+#carouselButton{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
